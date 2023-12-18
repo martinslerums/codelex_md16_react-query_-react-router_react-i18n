@@ -1,0 +1,124 @@
+{
+    "movies": [
+        {
+            "title": "Inception",
+            "genre": "Sci-Fi",
+            "director": "Christopher Nolan",
+            "year": 2010,
+            "rating": 9.0,
+            "duration": 148,
+            "comments": [
+                "Good movie",
+                "Mind-bending plot"
+            ]
+        },
+        {
+            "title": "The Shawshank Redemption",
+            "genre": "Drama",
+            "director": "Frank Darabont",
+            "year": 1994,
+            "rating": 9.3,
+            "duration": 142,
+            "comments": [
+                "Classic",
+                "Emotional storyline"
+            ]
+        },
+        {
+            "title": "The Dark Knight",
+            "genre": "Action",
+            "director": "Christopher Nolan",
+            "year": 2008,
+            "rating": 9.0,
+            "duration": 152,
+            "comments": [
+                "Epic",
+                "Heath Ledger's Joker is iconic"
+            ]
+        },
+        {
+            "title": "Pulp Fiction",
+            "genre": "Crime",
+            "director": "Quentin Tarantino",
+            "year": 1994,
+            "rating": 8.9,
+            "duration": 154,
+            "comments": [
+                "Quirky",
+                "Non-linear narrative"
+            ]
+        },
+        {
+            "title": "Forrest Gump",
+            "genre": "Drama",
+            "director": "Robert Zemeckis",
+            "year": 1994,
+            "rating": 8.8,
+            "duration": 142,
+            "comments": [
+                "Heartwarming",
+                "Tom Hanks is amazing"
+            ]
+        },
+        {
+            "title": "The Matrix",
+            "genre": "Sci-Fi",
+            "director": "The Wachowskis",
+            "year": 1999,
+            "rating": 8.7,
+            "duration": 136,
+            "comments": [
+                "Groundbreaking",
+                "Iconic bullet-dodging scene"
+            ]
+        },
+        {
+            "title": "The Godfather",
+            "genre": "Crime",
+            "director": "Francis Ford Coppola",
+            "year": 1972,
+            "rating": 9.2,
+            "duration": 175,
+            "comments": [
+                "Masterpiece",
+                "Marlon Brando's performance is legendary"
+            ]
+        },
+        {
+            "title": "Schindler's List",
+            "genre": "Drama",
+            "director": "Steven Spielberg",
+            "year": 1993,
+            "rating": 8.9,
+            "duration": 195,
+            "comments": [
+                "Powerful",
+                "Historically significant"
+            ]
+        },
+        {
+            "title": "The Silence of the Lambs",
+            "genre": "Thriller",
+            "director": "Jonathan Demme",
+            "year": 1991,
+            "rating": 8.6,
+            "duration": 118,
+            "comments": [
+                "Chilling",
+                "Anthony Hopkins as Hannibal Lecter is unforgettable"
+            ]
+        },
+        {
+            "title": "The Social Network",
+            "genre": "Biography",
+            "director": "David Fincher",
+            "year": 2010,
+            "rating": 7.7,
+            "duration": 120,
+            "comments": [
+                "Interesting",
+                "Captures the rise of Facebook"
+            ]
+        }
+    ]
+}
